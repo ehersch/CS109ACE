@@ -4,8 +4,8 @@ CS 109ACE is the [ACE section](https://engineering.stanford.edu/students-academi
 
 - **Instructor:** Ethan Hersch
 - **Contact:** [ehersch@stanford.edu](mailto:ehersch@stanford.edu)
-- **Section:** Tuesdays, 9:30–11:20 a.m., in 160-328
-- **First meeting:** September 29, 2026
+- **Section:** Wednesdays, 4:30–6:20 p.m., in Thornton 209
+- **First meeting:** September 30, 2026
 - **Office hours:** Two hours each week; times and locations TBD
 - **Grading:** Credit / No Credit
 
@@ -19,27 +19,26 @@ Complete the [ACE application form](https://docs.google.com/forms/u/1/d/e/1FAIpQ
 
 ## Tentative schedule
 
-Topics are a proposed sequence and will follow the main course’s pace. Regular meetings are 9:30–11:20 a.m. in 160-328.
+Topics are a proposed sequence and will follow the main course’s pace. Regular meetings are 4:30–6:20 p.m. in Thornton 209.
 
 | Date | Planned focus | Notes |
 | --- | --- | --- |
-| September 29 | Welcome, counting & probability | |
-| October 6 | Conditional probability & Bayes’ rule | |
-| October 13 | Random variables & distributions | |
-| October 20 | Midterm review | Midterm: October 22 at 6:30 p.m. |
-| October 27 | Additional practice | |
-| November 3 | Democracy Day | No section; makeup TBD |
-| November 10 | Joint distributions | |
-| November 17 | Introductory statistics | |
-| November 24 | Thanksgiving recess | No section |
-| December 1 | Final review | |
-| TBD | Democracy Day makeup | Replacement for November 3; time and location pending |
+| September 30 | Welcome, counting & probability | |
+| October 7 | Conditional probability & Bayes’ rule | |
+| October 14 | Random variables & distributions | |
+| October 21 | Midterm review | Midterm: October 22 at 6:30 p.m. |
+| October 28 | Additional practice | |
+| November 4 | Practice & review | Topic to be announced |
+| November 11 | Joint distributions | |
+| November 18 | Introductory statistics | |
+| November 25 | Thanksgiving recess | No section |
+| December 2 | Final review | |
 
-Midterm and final reviews are currently scheduled during section on October 20 and December 1, respectively. I can hold either review at a separate time outside class if that works better for everyone; this is the current schedule. Holiday dates follow the [Stanford academic calendar](https://studentservices.stanford.edu/calendar-events/academic-calendars/stanford-academic-calendar-2026-2027).
+Midterm and final reviews are currently scheduled during section on October 21 and December 2, respectively. I can hold either review at a separate time outside class if that works better for everyone; this is the current schedule. Holiday dates follow the [Stanford academic calendar](https://studentservices.stanford.edu/calendar-events/academic-calendars/stanford-academic-calendar-2026-2027).
 
 ## Attendance and support
 
-The syllabus specifies attending at least seven of nine sections and earning a C– or higher in CS 109. The final section count and makeup plan are pending confirmation. Email Ethan early about attendance conflicts or accommodations.
+The syllabus specifies attending at least seven of nine sections and earning a C– or higher in CS 109. Email Ethan early about attendance conflicts or accommodations.
 
 Discuss ideas and practice with classmates. Graded CS 109 work must remain your own and follow the main course’s collaboration and AI policies. See the syllabus for full policies.
 
