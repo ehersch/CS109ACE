@@ -15,7 +15,7 @@ Check course Canvas and Slack for announcements and materials. ACE supplements C
 
 ## Enrollment
 
-Complete the [ACE application form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSf78mThZwHrXKM6Gb0Vn9RFecq0sESyEHqJkwb9nCL5a4342A/viewform) by **Friday, September 25 at 11:59 p.m.** See [ACE enrollment information](https://engineering.stanford.edu/students-academics/student-success-and-engagement/undergraduate-programs/additional-courses/enroll) for more details.
+Complete the [ACE application form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSf78mThZwHrXKM6Gb0Vn9RFecq0sESyEHqJkwb9nCL5a4342A/viewform) by **Sunday, September 27 at 11:59 p.m.** See [ACE enrollment information](https://engineering.stanford.edu/students-academics/student-success-and-engagement/undergraduate-programs/additional-courses/enroll) for more details.
 
 ## Tentative schedule
 
