@@ -6,7 +6,7 @@ CS 109ACE is the [ACE section](https://engineering.stanford.edu/students-academi
 - **Contact:** [ehersch@stanford.edu](mailto:ehersch@stanford.edu)
 - **Section:** Wednesdays, 4:30–6:20 p.m., in Thornton 209
 - **First meeting:** September 30, 2026
-- **Office hours (this week):** Tuesday, 5:30–7:30 p.m., and Wednesday, 10–11 a.m., in CoDA basement
+- **Office hours (this week):** Tuesday, 5:30–6:30 p.m., in CoDA basement
 - **Grading:** Credit / No Credit
 
 [Course syllabus (PDF)](CS_109A_Syllabus.pdf) · [Course Slack](https://join.slack.com/t/cs109ace/shared_invite/zt-4akrq8hon-TwiDumu0nGG4rURmOFrIpg)
@@ -24,7 +24,7 @@ Topics are a proposed sequence and will follow the main course’s pace. Regular
 | Date | Planned focus | Notes |
 | --- | --- | --- |
 | September 30 | Welcome, counting & probability | |
-| October 7 | Conditional probability & Bayes’ rule | |
+| October 7 | Conditional probability & Bayes’ rule | [Week 2 slides (PPTX)](Week%202.pptx) · [Practice problems with solutions (PDF)](CS_109ACE_Week_2_Practice_Problems__With_Solutions_%20(1)%20(1).pdf) |
 | October 14 | Random variables & distributions | |
 | October 21 | Midterm review | Midterm: October 22 at 6:30 p.m. |
 | October 28 | Additional practice | |
