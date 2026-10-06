@@ -6,7 +6,7 @@ CS 109ACE is the [ACE section](https://engineering.stanford.edu/students-academi
 - **Contact:** [ehersch@stanford.edu](mailto:ehersch@stanford.edu)
 - **Section:** Wednesdays, 4:30–6:20 p.m., in Thornton 209
 - **First meeting:** September 30, 2026
-- **Office hours (this week):** Tuesday, 5:30–6:30 p.m., in CoDA basement
+- **Office hours (this week):** Tuesday, 5:30–6:30 p.m., and Wednesday, 10–11 a.m., in CoDA basement
 - **Grading:** Credit / No Credit
 
 [Course syllabus (PDF)](CS_109A_Syllabus.pdf) · [Course Slack](https://join.slack.com/t/cs109ace/shared_invite/zt-4akrq8hon-TwiDumu0nGG4rURmOFrIpg)
