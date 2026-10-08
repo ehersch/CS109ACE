@@ -24,7 +24,7 @@ Topics are a proposed sequence and will follow the main course’s pace. Regular
 | Date | Planned focus | Notes |
 | --- | --- | --- |
 | September 30 | Welcome, counting & probability | [Week 2 slides](Week%202%20%281%29.pdf) · [Practice problems with solutions](CS_109ACE_Week_2_Practice_Problems__With_Solutions_%20(1)%20(1).pdf) |
-| October 7 | Conditional probability & Bayes’ rule | |
+| October 7 | Conditional probability & Bayes’ rule | [Week 3 slides](Week%203.pdf) · [Practice problems with solutions](CS_109ACE_Week_3_Practice_Solutions.pdf) |
 | October 14 | Random variables & distributions | |
 | October 21 | Midterm review | Midterm: October 22 at 6:30 p.m. |
 | October 28 | Additional practice | |
